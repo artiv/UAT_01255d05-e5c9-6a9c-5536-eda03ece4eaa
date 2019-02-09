@@ -19,7 +19,46 @@
 		},
 		"fileTemplateStructure": {
 			"fileTemplateGenerics": [],
-			"fileTemplateFields": []
+			"fileTemplateFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "5eba3495-01db-8949-de2b-a1614be8653f",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"AgiBfyHMwSgmou7tm"
+						],
+						"fieldIsEditableCollections": [
+							"AgiBfyHMwSgmou7tm"
+						],
+						"fieldIsRequiredCollections": [
+							"AgiBfyHMwSgmou7tm"
+						],
+						"fieldIsMultipleCollections": [
+							"AgiBfyHMwSgmou7tm"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video content?",
+						"fieldKey": "5513ee1c-fd12-84d6-21b0-ad0812ab2977",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
 		},
 		"fileTemplatePublish": {
 			"fileTemplateTypes": []
