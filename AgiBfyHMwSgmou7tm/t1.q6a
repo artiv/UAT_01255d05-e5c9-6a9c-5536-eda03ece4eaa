@@ -1,0 +1,28 @@
+{
+	"fileName": "t1.q6a",
+	"fileTemplate": {
+		"fileTemplateGeneral": {
+			"fileTemplateGuid": "4c22f5f7-5d94-15ec-827c-a2fb6724c261",
+			"fileTemplateDate": "2019-02-09T20:39:01.604Z",
+			"fileTemplateCollections": [
+				"AgiBfyHMwSgmou7tm"
+			],
+			"fileTemplateCollectionsForTranslation": [
+				"AgiBfyHMwSgmou7tm"
+			]
+		},
+		"fileTemplateLanguage": {
+			"primaryLanguage": "nXNw3BgvjGFPTeXT5",
+			"possibleLanguages": [
+				"nXNw3BgvjGFPTeXT5"
+			]
+		},
+		"fileTemplateStructure": {
+			"fileTemplateGenerics": [],
+			"fileTemplateFields": []
+		},
+		"fileTemplatePublish": {
+			"fileTemplateTypes": []
+		}
+	}
+}
