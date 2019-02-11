@@ -48,45 +48,39 @@
 						"fieldKey": "5513ee1c-fd12-84d6-21b0-ad0812ab2977",
 						"fieldValues": [
 							{
-								"public_id": "UAT_01255d05-e5c9-6a9c-5536-eda03ece4eaa/transcribed_modernFamily_rtfkyj_xycngc",
-								"version": 1549887713,
-								"signature": "695d1cf7523727a443d69a82a1ff4a41a458f926",
+								"public_id": "UAT_01255d05-e5c9-6a9c-5536-eda03ece4eaa/ffmpeged_modernFamily_rtfkyj_evsonf",
+								"version": 1549888281,
+								"signature": "762529c7d83efc2bbdd39020612e0e9a44fa80a8",
 								"width": 480,
 								"height": 360,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-02-11T12:21:53Z",
+								"created_at": "2019-02-11T12:31:21Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 1084230,
+								"bytes": 604090,
 								"type": "upload",
-								"etag": "cb2981d6b4c41bce54f93683a7e872c4",
+								"etag": "f6dce0d8e3ee78ade21207ccc80bf094",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm/video/upload/v1549887713/UAT_01255d05-e5c9-6a9c-5536-eda03ece4eaa/transcribed_modernFamily_rtfkyj_xycngc.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1549887713/UAT_01255d05-e5c9-6a9c-5536-eda03ece4eaa/transcribed_modernFamily_rtfkyj_xycngc.mp4",
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1549888281/UAT_01255d05-e5c9-6a9c-5536-eda03ece4eaa/ffmpeged_modernFamily_rtfkyj_evsonf.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1549888281/UAT_01255d05-e5c9-6a9c-5536-eda03ece4eaa/ffmpeged_modernFamily_rtfkyj_evsonf.mp4",
 								"access_mode": "public",
 								"existing": false,
-								"audio": {
-									"codec": "aac",
-									"bit_rate": "120655",
-									"frequency": 44100,
-									"channels": 2,
-									"channel_layout": "stereo"
-								},
+								"audio": {},
 								"video": {
 									"pix_format": "yuv420p",
 									"codec": "h264",
 									"level": 21,
 									"profile": "High",
-									"bit_rate": "161001",
+									"bit_rate": "158292",
 									"dar": "4:3"
 								},
 								"is_audio": false,
 								"frame_rate": 24,
-								"bit_rate": 287565,
-								"duration": 30.139002,
+								"bit_rate": 160640,
+								"duration": 30.083984,
 								"rotation": 0,
-								"original_filename": "transcribed_modernFamily_rtfkyj",
+								"original_filename": "ffmpeged_modernFamily_rtfkyj",
 								"path": "v1549884831/UAT_01255d05-e5c9-6a9c-5536-eda03ece4eaa/modernFamily_rtfkyj.mp4",
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1549884831/UAT_01255d05-e5c9-6a9c-5536-eda03ece4eaa/modernFamily_rtfkyj.jpg",
 								"overlays": [
@@ -1427,13 +1421,15 @@
 									"https://res.cloudinary.com/qblm/video/upload/v1549884831/UAT_01255d05-e5c9-6a9c-5536-eda03ece4eaa/modernFamily_rtfkyj.mp4",
 									"https://res.cloudinary.com/qblm/video/upload/v1549887564/UAT_01255d05-e5c9-6a9c-5536-eda03ece4eaa/transcribed_modernFamily_rtfkyj_ovqhsq.mp4",
 									"https://res.cloudinary.com/qblm/video/upload/v1549887642/UAT_01255d05-e5c9-6a9c-5536-eda03ece4eaa/transcribed_modernFamily_rtfkyj_rgftsx.mp4",
-									"https://res.cloudinary.com/qblm/video/upload/v1549887713/UAT_01255d05-e5c9-6a9c-5536-eda03ece4eaa/transcribed_modernFamily_rtfkyj_xycngc.mp4"
+									"https://res.cloudinary.com/qblm/video/upload/v1549887713/UAT_01255d05-e5c9-6a9c-5536-eda03ece4eaa/transcribed_modernFamily_rtfkyj_xycngc.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1549888281/UAT_01255d05-e5c9-6a9c-5536-eda03ece4eaa/ffmpeged_modernFamily_rtfkyj_evsonf.mp4"
 								],
 								"transformedPublicIds": [
 									"UAT_01255d05-e5c9-6a9c-5536-eda03ece4eaa/modernFamily_rtfkyj",
 									"UAT_01255d05-e5c9-6a9c-5536-eda03ece4eaa/transcribed_modernFamily_rtfkyj_ovqhsq",
 									"UAT_01255d05-e5c9-6a9c-5536-eda03ece4eaa/transcribed_modernFamily_rtfkyj_rgftsx",
-									"UAT_01255d05-e5c9-6a9c-5536-eda03ece4eaa/transcribed_modernFamily_rtfkyj_xycngc"
+									"UAT_01255d05-e5c9-6a9c-5536-eda03ece4eaa/transcribed_modernFamily_rtfkyj_xycngc",
+									"UAT_01255d05-e5c9-6a9c-5536-eda03ece4eaa/ffmpeged_modernFamily_rtfkyj_evsonf"
 								],
 								"embed": {
 									"width": 480,
