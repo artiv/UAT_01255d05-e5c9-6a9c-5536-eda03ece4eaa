@@ -57,6 +57,44 @@
 						"fieldJobComment": "",
 						"specificJobComment": ""
 					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "aeea7d24-d882-3f30-6bf5-c7cd18eca119",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"AgiBfyHMwSgmou7tm"
+						],
+						"fieldIsEditableCollections": [
+							"AgiBfyHMwSgmou7tm"
+						],
+						"fieldIsRequiredCollections": [
+							"AgiBfyHMwSgmou7tm"
+						],
+						"fieldIsMultipleCollections": [
+							"AgiBfyHMwSgmou7tm"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text content?",
+						"fieldKey": "988f735f-6b4e-e74c-763e-bace2007d38a",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
 				}
 			]
 		},
